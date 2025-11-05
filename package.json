@@ -1,6 +1,6 @@
 {
     "name": "nestjs-ajd-boilerplate",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Nestjs boilerplate for typeorm base databases",
     "author": "Abolfazl-jalildoost",
     "private": false,
