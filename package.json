@@ -1,16 +1,15 @@
 {
     "name": "nestjs-ajd-boilerplate",
     "version": "1.0.1",
-    "description": "Nestjs boilerplate for typeorm base databases",
-    "author": "Abolfazl-jalildoost",
-    "private": false,
+    "description": "Simple NestJS TypeORM boilerplate generator",
     "bin": {
-        "create-nestjs-ajd": "index.js"
+        "nestjs-ajd-boilerplate": "index.js"
     },
+    "type": "module",
+    "license": "MIT",
     "files": [
         "index.js"
     ],
-    "license": "MIT",
     "scripts": {
         "build": "nest build",
         "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
