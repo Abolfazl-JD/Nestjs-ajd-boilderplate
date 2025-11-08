@@ -5,7 +5,6 @@
     "bin": {
         "nestjs-ajd-boilerplate": "index.js"
     },
-    "type": "module",
     "license": "MIT",
     "files": [
         "index.js"

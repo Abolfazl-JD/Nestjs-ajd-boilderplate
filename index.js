@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-import { execSync } from "child_process";
-import path from "path";
-import fs from "fs-extra";
+const fs = require("fs-extra");
+const path = require("path");
+const { execSync } = require("child_process");
 
 const repo = "https://github.com/Abolfazl-JD/Nestjs-ajd-boilderplate.git";
 const projectName = process.argv[2] || "nestjs-app";
