@@ -1,6 +1,6 @@
 {
     "name": "nestjs-ajd-boilerplate",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Simple NestJS TypeORM boilerplate generator",
     "bin": {
         "nestjs-ajd-boilerplate": "index.js"
