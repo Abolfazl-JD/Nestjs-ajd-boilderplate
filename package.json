@@ -9,6 +9,20 @@
     "files": [
         "index.js"
     ],
+    "keywords": [
+        "nestjs",
+        "boilerplate",
+        "starter",
+        "typescript",
+        "typeorm",
+        "jwt",
+        "passport",
+        "authentication",
+        "authorization",
+        "mutex",
+        "backend",
+        "api"
+    ],
     "scripts": {
         "build": "nest build",
         "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
